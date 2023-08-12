@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "elevators:elevator"
+            }
+        }
+    },
+    "rewards": {
+        "function": "elevators:crafted_elevator"
+    }
+}
