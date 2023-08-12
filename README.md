@@ -12,3 +12,5 @@ To use the elevator block, another elevator block needs to be placed directly ab
 ## Adding to your Server
 
 This datapack is very simple to add to your server or singleplayer world, just add it like any other datapack, then reload using /reload in game or restart your server. No further setup is needed.
+
+[Download Link](https://github.com/supercam19/SimpleElevators/releases/latest)
